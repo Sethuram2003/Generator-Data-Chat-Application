@@ -1,0 +1,7 @@
+streamlit==1.24.0
+streamlit-chat==0.0.2
+langchain==0.0.200
+faiss-cpu==1.7.2
+sentence-transformers==2.2.2
+ctransformers==0.2.11
+huggingface-hub==0.15.1
