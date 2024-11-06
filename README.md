@@ -34,7 +34,7 @@ csv_generator_data/
    ```
 
 2. **Download the Llama Model**
-   - Get the model file `llama-2-7b-chat.ggmlv3.q8_0.bin` from [Kaggle](https://www.kaggle.com)
+   - Get the model file `llama-2-7b-chat.ggmlv3.q8_0.bin` from [Kaggle](https://www.kaggle.com/datasets/rodrigostallsikora/llama-2-7b-chat-ggmlv3-q8-0-bin)
    - Place it in the project's root directory
 
 3. **Set Up Dependencies**
@@ -68,14 +68,6 @@ csv_generator_data/
 - "Are there any anomalies in the performance metrics?"
 - "Generate a summary of maintenance activities"
 
-## 📊 Sample Data Format
-
-Your CSV file should contain relevant generator data columns. Here's a sample structure:
-```csv
-timestamp,generator_id,operational_status,fuel_level,power_output
-2024-01-01 00:00:00,GEN001,active,85.5,750.2
-...
-```
 
 ## 🤝 Contributing
 
@@ -87,23 +79,6 @@ Contributions are welcome! Here's how you can help:
 4. Commit your changes (`git commit -m 'Add amazing feature'`)
 5. Push to the branch (`git push origin feature/amazing-feature`)
 6. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌟 Acknowledgments
-
-- Thanks to the Streamlit team for their amazing framework
-- The LangChain community for their excellent tools
-- Contributors and users of this application
-
-## 📞 Support
-
-For support, please:
-- Open an issue in the GitHub repository
-- Contact the maintainers
-- Check the [documentation](docs/)
 
 ---
 
