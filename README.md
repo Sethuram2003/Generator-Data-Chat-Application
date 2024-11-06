@@ -29,22 +29,22 @@ A conversational AI application that enables users to interact with generator da
    ```bash
    git clone https://github.com/Sethuram2003/csv_generator_data.git
    cd csv_generator_data```
-
 2. **Download the Llama Model**:
 
-The model file llama-2-7b-chat.ggmlv3.q8_0.bin must be downloaded separately. You can find it on Kaggle and place it in the root directory of this project.
-
+   The model file llama-2-7b-chat.ggmlv3.q8_0.bin must be downloaded separately. You can find it on Kaggle and place it in the root directory of this project.
 3. **Install dependencies**:
 
-```bash
-pip install -r requirements.txt```
-
+   ```bash
+   pip install -r requirements.txt```
 4. **Run the application**:
 
-```bash
+   ```bash
 streamlit run generator.py```
 
-Usage
+---
+## Usage
+
+
 Launch the App: Start the app and upload a CSV file containing generator data.
 Interact with the Data: Enter your queries in the chat box to retrieve specific insights from the data.
 Example Queries
