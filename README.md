@@ -37,13 +37,11 @@ The model file llama-2-7b-chat.ggmlv3.q8_0.bin must be downloaded separately. Yo
 3. **Install dependencies**:
 
 ```bash
-Copy code
 pip install -r requirements.txt```
 
 4. **Run the application**:
 
 ```bash
-Copy code
 streamlit run generator.py```
 
 Usage
