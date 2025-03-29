@@ -70,7 +70,7 @@ csv_generator_data/
   
 Here are some example interactions with the agent:
 
-![Chat_1](chat_1.png)
+![Chat_1](chat_1.jpeg)
 *conversation between AI Agent*
 
 
