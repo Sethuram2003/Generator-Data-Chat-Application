@@ -67,6 +67,11 @@ csv_generator_data/
 - "Show me the fuel level readings from the past week"
 - "Are there any anomalies in the performance metrics?"
 - "Generate a summary of maintenance activities"
+  
+Here are some example interactions with the agent:
+
+![Chat_1](chat_1.png)
+*conversation between AI Agent*
 
 
 ## 🤝 Contributing
